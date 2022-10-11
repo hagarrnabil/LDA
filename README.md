@@ -1,2 +1,2 @@
 # LDA
-Implementing Linear Discriminant Analysis from scratch and built in to see the difference in accuracy.
+Implementing Linear Discriminant Analysis once from scratch and once built in to see the difference in accuracy.
